@@ -26,7 +26,9 @@ public class Server {
 
         run();
     }
-
+/*
+main Server-loop
+ */
     private void run() {
         while (true) {
             try {
