@@ -16,6 +16,7 @@ public class Server {
         this.application = application;
     }
 
+
     //starts server, opens serversocket
     public void start() throws IOException {
 
